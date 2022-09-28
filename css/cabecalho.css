@@ -1,0 +1,74 @@
+
+/*#### COFIGURAÇÃO DOS CABEÇALHOS DAS PÁGINAS CROCHÊ DA LULUZINHA , GALERIA DE FOTOS E SOBRE####*/
+
+
+nav {
+    display: inline;
+    position: absolute;
+    top:0;
+    width: 100%;
+}
+
+ h1{
+    box-shadow: 0 0 10px 3px rgba(78, 71, 77, 0.9);
+    width: 15%;
+    border: 1px solid rgba(231, 126, 179, 0.6);
+    color: red;
+    text-shadow: 2px 2px rgb(37, 235, 19, 0.6);
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2em;
+    float: left;
+    
+}
+
+
+nav .button{
+    
+    font-size: 1.3em;
+    margin-top: -3em;
+    text-shadow: 2px 2px rgb(231, 235, 19);
+    color: black;
+   float: right;
+    border-radius: 1em;
+    background-color: rgb(226, 170, 179);
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    margin-right: 5em;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+header{
+    background: url(..//images/pattern-2rb.png) center center no-repeat pink;
+    padding: 4.8em;
+    border-radius: 1em;
+    
+  }
+  
+  
+
+ h1{
+    
+   margin-left: -1.8em;
+    box-shadow: 0 0 10px 3px rgba(78, 71, 77, 0.9);
+    width: 15%;
+    height: 8%;
+    border-radius: 1em;
+    color: red;
+    text-shadow: 2px 2px rgb(37, 235, 19, 0.6);
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2em;
+    padding: 5px;
+  }
+  
+nav h2{ 
+    position: relative;
+   margin-right: 8em;
+    text-align: center;
+    font-size: 2.5em;
+    text-shadow: 2px 2px rgb(231, 235, 19);
+    color: black;
+}
